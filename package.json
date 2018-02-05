@@ -1,0 +1,15 @@
+{
+  "name": "node-beginner-tutorial",
+  "version": "1.0.0",
+  "description": "My learning path to developing NodeJS Apps",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Omer Koc",
+  "license": "ISC"
+}
